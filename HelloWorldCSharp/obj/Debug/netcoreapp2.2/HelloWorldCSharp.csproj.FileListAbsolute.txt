@@ -1,0 +1,11 @@
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\bin\Debug\netcoreapp2.2\HelloWorldCSharp.deps.json
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\bin\Debug\netcoreapp2.2\HelloWorldCSharp.runtimeconfig.json
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\bin\Debug\netcoreapp2.2\HelloWorldCSharp.runtimeconfig.dev.json
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\bin\Debug\netcoreapp2.2\HelloWorldCSharp.dll
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\bin\Debug\netcoreapp2.2\HelloWorldCSharp.pdb
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\obj\Debug\netcoreapp2.2\HelloWorldCSharp.csprojAssemblyReference.cache
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\obj\Debug\netcoreapp2.2\HelloWorldCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\obj\Debug\netcoreapp2.2\HelloWorldCSharp.AssemblyInfoInputs.cache
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\obj\Debug\netcoreapp2.2\HelloWorldCSharp.AssemblyInfo.cs
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\obj\Debug\netcoreapp2.2\HelloWorldCSharp.dll
+C:\Users\dvdmrk\Desktop\Professional Development\Projects\HelloWorldx4\HelloWorldCSharp\obj\Debug\netcoreapp2.2\HelloWorldCSharp.pdb
